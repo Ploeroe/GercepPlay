@@ -3,12 +3,10 @@ import { getProviders, signIn } from "next-auth/react";
 function Login({providers}) {
     return (
         <div className="flex flex-col items-center bg-black min-h-screen w-full justify-center">
-            <img className="w-52 mb-5" src="https://links.papareact.com/9xl" alt="" />
 
-            <div>
-                <h1>Test 1</h1>
-                <h1>Test 2</h1>
-                <h1>Test 3</h1>
+            <div className="flex space x-20">
+                <h1>Raphael Gregorius Hakim - 000 000 43340</h1>
+                <img src="/img/pael.png" />
             </div>
 
             {Object.values(providers).map((provider) => (
