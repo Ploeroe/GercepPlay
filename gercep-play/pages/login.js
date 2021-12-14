@@ -4,11 +4,6 @@ function Login({providers}) {
     return (
         <div className="flex flex-col items-center bg-black min-h-screen w-full justify-center">
 
-            <div className="flex space x-20">
-                <h1>Raphael Gregorius Hakim - 000 000 43340</h1>
-                <img src="/img/pael.png" />
-            </div>
-
             {Object.values(providers).map((provider) => (
                 <div key={provider.name}>
                     <button className="bg-[#18D860] text-white p-5 
