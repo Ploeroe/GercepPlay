@@ -1,12 +1,13 @@
-Cara melakukan clone repository,
+Cara saya melakukan clone repository,
 
 1. Buat File baru dan jalankan
    $ npx create-next-app -e with-tailwindcss gercepplay
 
 2. cd gercepplay
-3. npm run dev
-4. buat .env.local
-5. masukkan data
+3. Masukkan semua data repository kedalam gercepplay. (hal ini kita lakukan untuk mendapatkan nodemodule dsbnya)
+4. npm run dev
+5. buat .env.local
+6. masukkan data
    NEXTAUTH_URL=(URL ex.Localhost:3000)
    NEXT_PUBLIC_CLIENT_SECRET=(SECRET ID SPOTIFY)
    NEXT_PUBLIC_CLIENT_ID=(CLIENT ID SPOTIFY)
