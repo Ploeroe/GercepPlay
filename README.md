@@ -24,4 +24,4 @@ Cara melakukan clone repository,
 AKAN ERROR SEPERTI INI:
 Details: Player command failed: No active device found NO_ACTIVE_DEVICE.
 
-9. Akun yang premium yang dapat digunakan akan tersedia pada google docs yang hanya akan aktif selama 1 bulan.
+9. Akun yang premium yang dapat digunakan akan tersedia pada laporan pti uas 2021 yang hanya akan aktif selama 1 bulan.
